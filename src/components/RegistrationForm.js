@@ -9,6 +9,9 @@ class RegistrationForm extends Component {
           <input type="text" name="username">
           Password: <br>
           <input type="password" name="password">
+          <br>
+          Submit
+          <button type="onsubmit">
         </form>
       </div>
       );
