@@ -5,8 +5,8 @@ class RegistrationForm extends Component {
     return (
       <div>
         <form type="#">
-          <input type="text" name="username" />
-          <input type="password" name="password" />
+          <input type="text" name="username">
+          <input type="password" name="password">
         </form>
       </div>
       );
