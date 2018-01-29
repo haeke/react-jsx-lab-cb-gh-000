@@ -9,7 +9,7 @@ class RegistrationForm extends Component {
           <input type="password" name="password" />
         </form>
       </div>
-      )
+      );
   }
 }
 
